@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47c06336-1a90-422b-8ca7-aaa2b418d8b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackjack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Blackjack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Blackjack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dealer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dealer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Deck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RankType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RankType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SuitType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SuitType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BlackjackTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DealerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DeckTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PlayerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Blackjack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Dealer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Deck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/RankType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Runner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SuitType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BlackjackTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/CardTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/DealerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/DeckTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/PlayerTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eoI3Vyj18fuhJBp6biHc6hF3Ef" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.BlackjackTest.dealerCanWin">
+    <configuration name="BlackjackTest.dealerCanWin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blackjack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BlackjackTest" />
+      <option name="METHOD_NAME" value="dealerCanWin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BlackjackTest.playerCanWin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blackjack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BlackjackTest" />
+      <option name="METHOD_NAME" value="playerCanWin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DealerTest.canSumCardValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blackjack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DealerTest" />
+      <option name="METHOD_NAME" value="canSumCardValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.canFindBlackjack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blackjack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="METHOD_NAME" value="canFindBlackjack" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest.canSumCardValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Blackjack" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerTest" />
+      <option name="METHOD_NAME" value="canSumCardValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BlackjackTest.dealerCanWin" />
+        <item itemvalue="JUnit.BlackjackTest.playerCanWin" />
+        <item itemvalue="JUnit.DealerTest.canSumCardValues" />
+        <item itemvalue="JUnit.PlayerTest.canFindBlackjack" />
+        <item itemvalue="JUnit.PlayerTest.canSumCardValues" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47c06336-1a90-422b-8ca7-aaa2b418d8b2" name="Default Changelist" comment="" />
+      <created>1594981320665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594981320665</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1233" y="123" width="1227" height="1125" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1595094623680">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state x="1233" y="123" width="1227" height="1125" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595094623680" />
+    <state width="1385" height="378" key="GridCell.Tab.0.bottom" timestamp="1595179349770">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state width="1385" height="378" key="GridCell.Tab.0.bottom/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595179349770" />
+    <state width="1385" height="378" key="GridCell.Tab.0.center" timestamp="1595179349768">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state width="1385" height="378" key="GridCell.Tab.0.center/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595179349768" />
+    <state width="1385" height="378" key="GridCell.Tab.0.left" timestamp="1595179349767">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state width="1385" height="378" key="GridCell.Tab.0.left/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595179349767" />
+    <state width="1385" height="378" key="GridCell.Tab.0.right" timestamp="1595179349770">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state width="1385" height="378" key="GridCell.Tab.0.right/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595179349770" />
+    <state width="1385" height="464" key="GridCell.Tab.1.bottom" timestamp="1595096069905">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state width="1385" height="464" key="GridCell.Tab.1.bottom/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595096069905" />
+    <state width="1385" height="464" key="GridCell.Tab.1.center" timestamp="1595096069905">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state width="1385" height="464" key="GridCell.Tab.1.center/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595096069905" />
+    <state width="1385" height="464" key="GridCell.Tab.1.left" timestamp="1595096069904">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state width="1385" height="464" key="GridCell.Tab.1.left/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595096069904" />
+    <state width="1385" height="464" key="GridCell.Tab.1.right" timestamp="1595096069905">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state width="1385" height="464" key="GridCell.Tab.1.right/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1595096069905" />
+    <state x="1498" y="518" key="com.intellij.ide.util.TipDialog" timestamp="1594981329246">
+      <screen x="0" y="23" width="2560" height="1326" />
+    </state>
+    <state x="1498" y="518" key="com.intellij.ide.util.TipDialog/-1440.839.1440.900/0.23.2560.1326@0.23.2560.1326" timestamp="1594981329246" />
+  </component>
+</project>
